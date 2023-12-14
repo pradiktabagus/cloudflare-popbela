@@ -1,0 +1,18 @@
+User-agent: Twitterbot
+Allow: *?utm_source=
+
+User-agent: *
+Disallow: /ajax/*
+Disallow: /preview/
+Disallow: /ajax-get-next-article/
+Disallow: /253109699/PopbelaMobile/
+Disallow: /author*
+Disallow: /search*
+Disallow: *?utm_source=*
+Disallow: *?fb_comment_id=*
+Disallow: *_next/image?*
+
+User-agent: Alexabot
+Disallow: /*/amp/
+
+Sitemap: https://www.popbela.com/sitemap.xml

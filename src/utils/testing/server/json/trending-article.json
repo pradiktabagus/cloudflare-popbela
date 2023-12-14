@@ -1,0 +1,250 @@
+{
+  "status": 200,
+  "message": "success",
+  "data": {
+    "pagination": {
+      "current_page": 1,
+      "total_page": 2,
+      "per_page": 6,
+      "total_data": 9
+    },
+    "trendings": [
+      {
+        "title": "Ini 6 Perbedaan Gaya Pacaran Negara Asia dan Negara Barat",
+        "excerpt": "Nomor 2 memang paling menonjol",
+        "article_url": "/relationship/dating/dinalathifa/perbedaan-pacaran-negara-asia-dan-barat",
+        "article_url_amp": "/relationship/dating/amp/dinalathifa/perbedaan-pacaran-negara-asia-dan-barat",
+        "article_url_target": "",
+        "release_date": 1677555000,
+        "flag": "regular",
+        "type": "editorial-article",
+        "campaign": null,
+        "category": {
+          "name": "Relationship",
+          "category_url": "/relationship"
+        },
+        "sub_category": {
+          "name": "Dating",
+          "category_url": "/relationship/dating"
+        },
+        "author": {
+          "name": "Dina Lathifa",
+          "author_url": "/dinalathifa",
+          "avatar": "https://cdn.sotogubeng.com/content-images/avatar/dinalathifa_200x200.jpg"
+        },
+        "cover": {
+          "image_url": "https://cdn.sotogubeng.com/content-images/post/20200825/pexels-dimitri-kuliuk-949223-pasangan-5f6d36a5ad28fc798ede02aba70f0ab1_750x500.jpg",
+          "image_url_hd": "https://cdn.sotogubeng.com/content-images/post/20200825/pexels-dimitri-kuliuk-949223-pasangan-5f6d36a5ad28fc798ede02aba70f0ab1_750x500.jpg",
+          "image_url_md": "https://cdn.sotogubeng.com/content-images/post/20200825/pexels-dimitri-kuliuk-949223-pasangan-5f6d36a5ad28fc798ede02aba70f0ab1_390x260.jpg",
+          "image_url_sd": "https://cdn.sotogubeng.com/content-images/post/20200825/pexels-dimitri-kuliuk-949223-pasangan-5f6d36a5ad28fc798ede02aba70f0ab1_125x85.jpg",
+          "placeholder_image_url": "https://cdn.sotogubeng.com/content-images/post/20200825/pexels-dimitri-kuliuk-949223-pasangan-5f6d36a5ad28fc798ede02aba70f0ab1_200x200.jpg",
+          "width": 1280,
+          "height": 853
+        }
+      },
+      {
+        "title": "Transformasi Drastis Gaya Nagita Slavina dari Masa ke Masa",
+        "excerpt": "Siap-siap terpana",
+        "article_url": "/fashion/style-trends/hafidhza-putri-andiza/transformasi-drastis-gaya-nagita-slavina-dari-masa-ke-masa",
+        "article_url_amp": "/fashion/style-trends/amp/hafidhza-putri-andiza/transformasi-drastis-gaya-nagita-slavina-dari-masa-ke-masa",
+        "article_url_target": "",
+        "release_date": 1677564000,
+        "flag": "regular",
+        "type": "editorial-article",
+        "campaign": null,
+        "category": {
+          "name": "Fashion",
+          "category_url": "/fashion"
+        },
+        "sub_category": {
+          "name": "Style & Trends",
+          "category_url": "/fashion/style-trends"
+        },
+        "author": {
+          "name": "Hafidhza Putri Andiza",
+          "period": 1563382800,
+          "author_url": "/hafidhza-putri-andiza",
+          "avatar": "https://cdn.sotogubeng.com/content-images/avatar/hafidhza-putri-andiza_20190718123624_200x200.jpg"
+        },
+        "cover": {
+          "image_url": "https://cdn.sotogubeng.com/content-images/post/20201203/untitled-design-2-e9bed44a70f0f13100e8da17157f061e_750x500.jpg",
+          "image_url_hd": "https://cdn.sotogubeng.com/content-images/post/20201203/untitled-design-2-e9bed44a70f0f13100e8da17157f061e_750x500.jpg",
+          "image_url_md": "https://cdn.sotogubeng.com/content-images/post/20201203/untitled-design-2-e9bed44a70f0f13100e8da17157f061e_390x260.jpg",
+          "image_url_sd": "https://cdn.sotogubeng.com/content-images/post/20201203/untitled-design-2-e9bed44a70f0f13100e8da17157f061e_125x85.jpg",
+          "placeholder_image_url": "https://cdn.sotogubeng.com/content-images/post/20201203/untitled-design-2-e9bed44a70f0f13100e8da17157f061e_200x200.jpg",
+          "width": 750,
+          "height": 500
+        }
+      },
+      {
+        "title": "Cara Paling Stylist saat OOTD Pakai Warna Cokelat",
+        "excerpt": "Cocok sebagai OOTD saat musim panas atau dingin",
+        "article_url": "/fashion/style-trends/hafidhza-putri-andiza/fashion-warna-cokelat",
+        "article_url_amp": "/fashion/style-trends/amp/hafidhza-putri-andiza/fashion-warna-cokelat",
+        "article_url_target": "",
+        "release_date": 1677555000,
+        "flag": "regular",
+        "type": "editorial-article",
+        "campaign": null,
+        "category": {
+          "name": "Fashion",
+          "category_url": "/fashion"
+        },
+        "sub_category": {
+          "name": "Style & Trends",
+          "category_url": "/fashion/style-trends"
+        },
+        "author": {
+          "name": "Hafidhza Putri Andiza",
+          "period": 1563382800,
+          "author_url": "/hafidhza-putri-andiza",
+          "avatar": "https://cdn.sotogubeng.com/content-images/avatar/hafidhza-putri-andiza_20190718123624_200x200.jpg"
+        },
+        "cover": {
+          "image_url": "https://cdn.sotogubeng.com/content-images/post/20200113/bd51e6fe452bd28b913da0630f33e4a5_750x500.jpg",
+          "image_url_hd": "https://cdn.sotogubeng.com/content-images/post/20200113/bd51e6fe452bd28b913da0630f33e4a5_750x500.jpg",
+          "image_url_md": "https://cdn.sotogubeng.com/content-images/post/20200113/bd51e6fe452bd28b913da0630f33e4a5_390x260.jpg",
+          "image_url_sd": "https://cdn.sotogubeng.com/content-images/post/20200113/bd51e6fe452bd28b913da0630f33e4a5_125x85.jpg",
+          "placeholder_image_url": "https://cdn.sotogubeng.com/content-images/post/20200113/bd51e6fe452bd28b913da0630f33e4a5_200x200.jpg",
+          "width": 750,
+          "height": 500
+        }
+      },
+      {
+        "title": "Gaya Seksi Para Artis Korea Selatan Pakai Gaun Merah di Red Carpet",
+        "excerpt": "Salah satunya sengaja buat kontroversi",
+        "article_url": "/fashion/style-trends/hafidhza-putri-andiza/gaya-seksi-para-artis-korea-selatan-pakai-gaun-merah-di-red-carpet",
+        "article_url_amp": "/fashion/style-trends/amp/hafidhza-putri-andiza/gaya-seksi-para-artis-korea-selatan-pakai-gaun-merah-di-red-carpet",
+        "article_url_target": "",
+        "release_date": 1677564000,
+        "flag": "regular",
+        "type": "editorial-article",
+        "campaign": "glance",
+        "category": {
+          "name": "Fashion",
+          "category_url": "/fashion"
+        },
+        "sub_category": {
+          "name": "Style & Trends",
+          "category_url": "/fashion/style-trends"
+        },
+        "author": {
+          "name": "Hafidhza Putri Andiza",
+          "period": 1563382800,
+          "author_url": "/hafidhza-putri-andiza",
+          "avatar": "https://cdn.sotogubeng.com/content-images/avatar/hafidhza-putri-andiza_20190718123624_200x200.jpg"
+        },
+        "cover": {
+          "image_url": "https://cdn.sotogubeng.com/content-images/post/20210728/sub-buzz-77-1607368197-20a-4147eb1fd949addb57e3113b9a95880f_750x500.jpg",
+          "image_url_hd": "https://cdn.sotogubeng.com/content-images/post/20210728/sub-buzz-77-1607368197-20a-4147eb1fd949addb57e3113b9a95880f_750x500.jpg",
+          "image_url_md": "https://cdn.sotogubeng.com/content-images/post/20210728/sub-buzz-77-1607368197-20a-4147eb1fd949addb57e3113b9a95880f_390x260.jpg",
+          "image_url_sd": "https://cdn.sotogubeng.com/content-images/post/20210728/sub-buzz-77-1607368197-20a-4147eb1fd949addb57e3113b9a95880f_125x85.jpg",
+          "placeholder_image_url": "https://cdn.sotogubeng.com/content-images/post/20210728/sub-buzz-77-1607368197-20a-4147eb1fd949addb57e3113b9a95880f_200x200.jpg",
+          "width": 1448,
+          "height": 965
+        }
+      },
+      {
+        "title": "8 Fakta Tentang Pemeran Dilan, Iqbaal 'CJR' Ramadhan yang Bikin Jatuh",
+        "excerpt": "8 Fakta Tentang Pemeran Dilan, Iqbaal 'CJR' Ramadhan yang Bikin Jatuh Hati",
+        "article_url": "/fashion/style-trends/developer/testing-wajib-ain",
+        "article_url_amp": "/fashion/style-trends/amp/developer/testing-wajib-ain",
+        "article_url_target": "",
+        "release_date": 1677553200,
+        "flag": "regular",
+        "type": "editorial-article",
+        "campaign": "glance",
+        "category": {
+          "name": "Fashion",
+          "category_url": "/fashion"
+        },
+        "sub_category": {
+          "name": "Style & Trends",
+          "category_url": "/fashion/style-trends"
+        },
+        "author": {
+          "name": "Developer",
+          "author_url": "/developer",
+          "avatar": "https://cdn.sotogubeng.com/content-images/avatar/developer_200x200.jpg"
+        },
+        "cover": {
+          "image_url": "https://cdn.sotogubeng.com/content-images/post/20170602/6-tai-2c7c0c03f8ce98146d446ce015d3a8ca_750x500.jpg",
+          "image_url_hd": "https://cdn.sotogubeng.com/content-images/post/20170602/6-tai-2c7c0c03f8ce98146d446ce015d3a8ca_750x500.jpg",
+          "image_url_md": "https://cdn.sotogubeng.com/content-images/post/20170602/6-tai-2c7c0c03f8ce98146d446ce015d3a8ca_390x260.jpg",
+          "image_url_sd": "https://cdn.sotogubeng.com/content-images/post/20170602/6-tai-2c7c0c03f8ce98146d446ce015d3a8ca_125x85.jpg",
+          "placeholder_image_url": "https://cdn.sotogubeng.com/content-images/post/20170602/6-tai-2c7c0c03f8ce98146d446ce015d3a8ca_200x200.jpg",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "title": "10 Contoh Surat Lamaran Kerja Fresh Graduate yang Baik dan Benar",
+        "excerpt": "Memudahkan kamu mendapat panggilan wawancara",
+        "article_url": "/career/working-life/nafi-khoiriyah/contoh-surat-lamaran-kerja-fresh-graduate",
+        "article_url_amp": "/career/working-life/amp/nafi-khoiriyah/contoh-surat-lamaran-kerja-fresh-graduate",
+        "article_url_target": "",
+        "release_date": 1677564000,
+        "flag": "regular",
+        "type": "editorial-article",
+        "campaign": null,
+        "category": {
+          "name": "Career",
+          "category_url": "/career"
+        },
+        "sub_category": {
+          "name": "Working Life",
+          "category_url": "/career/working-life"
+        },
+        "author": {
+          "name": "Nafi' Khoiriyah",
+          "period": 1659459600,
+          "author_url": "/nafi-khoiriyah",
+          "avatar": "https://cdn.sotogubeng.com/content-images/avatar/nafi-khoiriyah_20220803141522_42x42.png"
+        },
+        "cover": {
+          "image_url": "https://cdn.sotogubeng.com/content-images/post/20220824/4b0a84d8db54866855edf8f563109bcc_750x500.png",
+          "image_url_hd": "https://cdn.sotogubeng.com/content-images/post/20220824/4b0a84d8db54866855edf8f563109bcc_750x500.png",
+          "image_url_md": "https://cdn.sotogubeng.com/content-images/post/20220824/4b0a84d8db54866855edf8f563109bcc_390x260.png",
+          "image_url_sd": "https://cdn.sotogubeng.com/content-images/post/20220824/4b0a84d8db54866855edf8f563109bcc_125x85.png",
+          "placeholder_image_url": "https://cdn.sotogubeng.com/content-images/post/20220824/4b0a84d8db54866855edf8f563109bcc_200x200.png",
+          "width": 1000,
+          "height": 667
+        }
+      }
+    ]
+  },
+  "debug": {
+    "database": {
+      "total": 0,
+      "items": []
+    },
+    "cache": {
+      "hit": {
+        "keys": [],
+        "total": 0
+      },
+      "miss": {
+        "keys": ["|api.popbela.com|trending-articles|all|1|6|"],
+        "total": 1
+      },
+      "write": {
+        "keys": [],
+        "total": 0
+      },
+      "forget": {
+        "keys": [],
+        "total": 0
+      }
+    },
+    "profiling": [
+      {
+        "event": "request-time",
+        "time": 6.862925052642822
+      }
+    ],
+    "memory": {
+      "usage": 1409832,
+      "peak": 1425616
+    }
+  }
+}

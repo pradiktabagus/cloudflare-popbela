@@ -1,0 +1,138 @@
+{
+  "category": [
+    {
+      "category": "fashion",
+      "publisher": [
+        {
+          "name": "idntimes",
+          "type": "editorial-article",
+          "category": "korea"
+        },
+        {
+          "name": "popmama",
+          "type": "regular",
+          "category": "life",
+          "subCategory": "fashion-and-beauty"
+        },
+        {
+          "name": "fortune",
+          "type": "editorial-article",
+          "category": "luxury"
+        },
+        {
+          "name": "idntimes",
+          "type": "editorial-article",
+          "category": "life"
+        }
+      ]
+    },
+    {
+      "category": "beauty",
+      "publisher": [
+        {
+          "name": "idntimes",
+          "category": "life",
+          "subCategory": "women",
+          "type": "editorial-article"
+        },
+        {
+          "name": "popmama",
+          "category": "life",
+          "subCategory": "fashion-and-beauty",
+          "type": "regular"
+        },
+        {
+          "name": "fortune",
+          "category": "luxury",
+          "type": "editorial-article"
+        },
+        {
+          "name": "idntimes",
+          "category": "korea",
+          "type": "editorial-article"
+        }
+      ]
+    },
+    {
+      "category": "career",
+      "publisher": [
+        {
+          "name": "idntimes",
+          "category": "life",
+          "subCategory": "career",
+          "type": "editorial-article"
+        },
+        {
+          "name": "popmama",
+          "category": "life",
+          "subCategory": "home-and-living",
+          "type": "regular"
+        },
+        {
+          "name": "fortune",
+          "category": "news",
+          "type": "editorial-article"
+        },
+        {
+          "name": "idntimes",
+          "category": "life",
+          "subCategory": "inspiration",
+          "type": "editorial-article"
+        }
+      ]
+    },
+    {
+      "category": "lifestyle",
+      "publisher": [
+        {
+          "name": "idntimes",
+          "category": "korea",
+          "type": "editorial-article"
+        },
+        {
+          "name": "popmama",
+          "category": "life",
+          "subCategory": "health-and-lifestyle",
+          "type": "regular"
+        },
+        {
+          "name": "fortune",
+          "category": "luxury",
+          "type": "editorial-article"
+        },
+        {
+          "name": "idntimes",
+          "category": "life",
+          "type": "editorial-article"
+        }
+      ]
+    },
+    {
+      "category": "relationship",
+      "publisher": [
+        {
+          "name": "idntimes",
+          "category": "korea",
+          "subCategory": "relationship",
+          "type": "editorial-article"
+        },
+        {
+          "name": "popmama",
+          "category": "life",
+          "subCategory": "relationship",
+          "type": "regular"
+        },
+        {
+          "name": "fortune",
+          "category": "luxury",
+          "type": "editorial-article"
+        },
+        {
+          "name": "idntimes",
+          "category": "korea",
+          "type": "editorial-article"
+        }
+      ]
+    }
+  ]
+}

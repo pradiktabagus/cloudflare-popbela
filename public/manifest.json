@@ -1,0 +1,31 @@
+{
+  "name": "Popbela.com",
+  "short_name": "Popbela.com",
+  "description": "A Pop-culture and Lifestyle for Millennials and Gen Z Women - POPBELA.com",
+  "icons": [
+    {
+      "src": "v3/assets/img/global/favicon.png",
+      "sizes": "50x50 40x40",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#fff",
+  "theme_color": "#d72772",
+  "start_url": "/?utm_medium=manifest",
+  "display": "standalone",
+  "orientation": "portrait",
+  "gcm_sender_id": "1033359407513",
+  "gcm_sender_id_comment": "GCM Sender ID digunakan untuk web push notification",
+  "permissions": [
+    "https://*.popbela.com/*",
+    "webRequest",
+    "webRequestBlocking",
+    "cookies"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["http://*.popbela.com/*", "https://*.popbela.com/*"],
+      "all_frames": true
+    }
+  ]
+}

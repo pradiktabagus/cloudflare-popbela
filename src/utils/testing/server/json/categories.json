@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Fashion",
+    "slug": "fashion",
+    "category_url": "/fashion",
+    "description": "Kumpulan artikel dan informasi seputar tren fashion wanita, mulai dari gaya selebriti nasional, internasional, street style hingga trend runway.",
+    "meta": "Kumpulan Artikel & Berita Seputar Fashion Wanita Terbaru",
+    "sub_category": [
+      {
+        "name": "Style & Trends",
+        "slug": "style-trends",
+        "category_url": "/fashion/style-trends",
+        "description": "Kumpulan artikel terbaru seputar fashion mulai dari mix and match, produk hingga gaya selebriti untuk para perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Terbaru Tentang Gaya dan Tren Fashion"
+      },
+      {
+        "name": "Look For Less",
+        "slug": "look-for-less",
+        "category_url": "/fashion/look-for-less",
+        "description": "Kumpulan artikel terbaru seputar tips mix and match dan OOTD pilihan Popbela yang sedang trend untuk para perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Terbaru Tentang OOTD Fashion Wanita"
+      }
+    ]
+  },
+  {
+    "name": "Beauty",
+    "slug": "beauty",
+    "category_url": "/beauty",
+    "description": "Kumpulan artikel dan berita terbaru tentang perawatan kecantikan mulai dari rambut, kulit, wajah, makeup dan kesehatan pada perempuan millennial.",
+    "meta": "Kumpulan Artikel Terbaru Tentang Kecantikan Wanita",
+    "sub_category": [
+      {
+        "name": "Hair",
+        "slug": "hair",
+        "category_url": "/beauty/hair",
+        "description": "Kumpulan artikel dan berita terbaru seputar cara merawat dan gaya rambut yang sedang trend untuk para perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Tentang Perawatan & Gaya Rambut Wanita"
+      },
+      {
+        "name": "Skin",
+        "slug": "skin",
+        "category_url": "/beauty/skin",
+        "description": "Kumpulan artikel dan berita terbaru seputar tips merawat dan cara mengatasi masalah pada kulit untuk para perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Terbaru Tentang Perawatan Kulit Wanita"
+      },
+      {
+        "name": "Make Up",
+        "slug": "make-up",
+        "category_url": "/beauty/make-up",
+        "description": "Kumpulan artikel dan berita terbaru seputar tips, cara atau tutorial makeup yang cocok untuk berbagai warna dan bentuk wajah untuk perempuan millennial.",
+        "meta": "Kumpulan Artikel Terbaru Tentang Tips & Cara Makeup Wanita"
+      },
+      {
+        "name": "Health",
+        "slug": "health",
+        "category_url": "/beauty/health",
+        "description": "Kumpulan artikel dan berita terbaru seputar kesehatan baik permasalahan atau cara gaya hidup sehat untuk para perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel & Berita Terbaru Tentang Kesehatan Wanita"
+      }
+    ]
+  },
+  {
+    "name": "Career",
+    "slug": "career",
+    "category_url": "/career",
+    "description": "Kumpulan artikel dan berita terbaru tentang karier dan hiburan dari kisah inspiratif dan info yang tren hari ini untuk para millennial dan Gen Z Indonesia.",
+    "meta": "Kumpulan Artikel Terbaru Tentang Karier dan Hiburan",
+    "sub_category": [
+      {
+        "name": "Working Life",
+        "slug": "working-life",
+        "category_url": "/career/working-life",
+        "description": "Kumpulan artikel dan berita terbaru seputar kehidupan berkarir mulai dari tips dan fakta unik untuk para perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Terbaru Tentang Kehidupan Karier Wanita"
+      },
+      {
+        "name": "Inspiration",
+        "slug": "inspiration",
+        "category_url": "/career/inspiration",
+        "description": "Kumpulan artikel dan berita terbaru seputar cerita inspiratif, hiburan dan fakta unik yang sedang trend untuk para perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Terbaru Tentang Inspirasi Wanita"
+      }
+    ]
+  },
+  {
+    "name": "Lifestyle",
+    "slug": "lifestyle",
+    "category_url": "/lifestyle",
+    "description": "Kumpulan artikel dan berita gaya hidup terbaru tentang makanan dan travelling, tips, rekomendasi, review serta info menarik untuk para perempuan millennial.",
+    "meta": "Kumpulan Artikel & Berita Gaya Hidup Wanita Terbaru",
+    "sub_category": [
+      {
+        "name": "Travel",
+        "slug": "travel",
+        "category_url": "/lifestyle/travel",
+        "description": "Kumpulan artikel dan news travelling. Baik tips, rekomendasi, review tempat wisata serta info menarik lainnya untuk para millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel & Berita Seputar Travelling Terbaru"
+      },
+      {
+        "name": "Food",
+        "slug": "food",
+        "category_url": "/lifestyle/food",
+        "description": "Kumpulan artikel tentang makanan. Mulai dari tips, rekomendasi tempat kuliner, review, juga info menarik lainnya untuk para millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Terbaru Tentang Makanan dan Resep"
+      },
+      {
+        "name": "News",
+        "slug": "news",
+        "category_url": "/lifestyle/news",
+        "description": "Berita terkini dan terbaru hari ini seputar gaya hidup mulai dari fashion, kecantikan, kesehatan, pernikahan, percintaan para seleb hingga tips tekno",
+        "meta": "Berita Terkini dan Terbaru Hari Ini di Indonesia"
+      }
+    ]
+  },
+  {
+    "name": "Relationship",
+    "slug": "relationship",
+    "category_url": "/relationship",
+    "description": "Kumpulan artikel dan news relationship terbaru tentang gaya hidup wanita single, kencan, pernikahan, edukasi seks dan ramalan zodiak hari ini.",
+    "meta": "Kumpulan Artikel & Berita Relationship Wanita Terbaru",
+    "sub_category": [
+      {
+        "name": "Single",
+        "slug": "single",
+        "category_url": "/relationship/single",
+        "description": "Kumpulan artikel terbaru seputar cerita inspiratif dan cara cerdas menikmati hidup sebagai wanita single untuk para millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Tentang Wanita Single Terbaru"
+      },
+      {
+        "name": "Dating",
+        "slug": "dating",
+        "category_url": "/relationship/dating",
+        "description": "Kumpulan artikel terbaru seputar cara PDKT, tips pacaran hingga rahasia putus anti galau untuk para perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Terbaru Tentang Kencan untuk Wanita"
+      },
+      {
+        "name": "Married",
+        "slug": "married",
+        "category_url": "/relationship/married",
+        "description": "Kumpulan artikel dan berita terbaru seputar persiapan pernikahan, kehidupan menikah hingga tips parenting untuk perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Tentang Pernikahan Untuk Wanita Terbaru"
+      },
+      {
+        "name": "Sex",
+        "slug": "sex",
+        "category_url": "/relationship/sex",
+        "description": "Kumpulan artikel terbaru seputar seks. Mulai dari pengetahuan, tips, manfaat dan info menarik lainnya untuk para perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Tentang Pengetahuan Seks Wanita Terbaru"
+      },
+      {
+        "name": "Zodiac",
+        "slug": "zodiac",
+        "category_url": "/relationship/zodiac",
+        "description": "Kumpulan artikel informasi terbaru seputar 12 ramalan zodiak hari ini. Mulai dari percintaan hingga karakter untuk perempuan millennial dan Gen Z Indonesia.",
+        "meta": "Kumpulan Artikel Terbaru Seputar 12 Ramalan Zodiak Hari Ini"
+      },
+      {
+        "name": "Letters",
+        "slug": "letters",
+        "category_url": "/relationship/letters",
+        "description": "Kumpulan surat pembaca seputar relationship. Mulai dari cerita cinta romantis, bahagia hingga sedih",
+        "meta": "Kumpulan Surat Pembaca Seputar Relationship"
+      }
+    ]
+  }
+]

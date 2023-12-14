@@ -1,0 +1,21 @@
+.popbela-slider{
+  & :global(.slick-dots){
+    li button:before{
+      font-size: 7px !important;
+    }
+    li:global(.slick-active) button:before{
+      opacity: .75;
+      color:#d51c6a !important;
+    }
+  }
+
+  &.with-margin{
+    & :global(.slick-list) {
+      margin: 0 -5px;
+  
+      & :global(.slick-slide) > div {
+        margin: 0 5px;
+      }
+    }
+  }
+}

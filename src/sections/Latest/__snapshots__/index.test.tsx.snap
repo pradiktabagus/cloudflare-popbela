@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`section latest Latest article versi non amp should render correctly Section latest 1`] = `
+<section
+  class="mb-[15px]"
+  data-testid="section-latest"
+>
+  <h2
+    class="chakra-heading css-1l2v8y"
+    data-testid="title-section-latest"
+  >
+    Latest from make-up
+  </h2>
+  <div
+    class="css-3pksgp"
+  />
+  <div
+    class="css-1176rz"
+    data-testid="section-load-more-latest"
+  >
+    <button
+      class="chakra-button css-1al03dm"
+      data-testid="button-load-more-latest"
+      type="button"
+    >
+      LOAD MORE
+    </button>
+  </div>
+</section>
+`;

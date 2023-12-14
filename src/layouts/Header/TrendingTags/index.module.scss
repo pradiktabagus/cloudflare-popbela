@@ -1,0 +1,41 @@
+.wrapper__trending_tag {
+  position: relative;
+  overflow-y: auto;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  ul {
+    height: 100%;
+    align-items: center;
+    padding-inline-start: 20px;
+    margin-bottom: 0;
+  }
+  li {
+    list-style-type: none;
+    text-align: center;
+    padding: 5px 15px 5px 0;
+    min-width: max-content;
+    color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    :hover {
+      color: #800F3C;
+    }
+    &:after {
+      content: "";
+      display: inline-block;
+      height: 20px;
+      width: 1px;
+      margin-left: 15px;
+      background-color: var(--color-primary);
+    }
+  }
+}
+.wrapper__trending_tag::-webkit-scrollbar {
+  display: none;
+}
+.wrapper__trending_tag li:last-child {
+  &:after {
+    content: "";
+    display: none;
+  }
+}

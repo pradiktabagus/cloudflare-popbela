@@ -1,0 +1,193 @@
+{
+  "ssm:account=923361761651:parameterName=/idn/popbela/vpcId:region=ap-southeast-1": "vpc-0677ad5739ab11544",
+  "vpc-provider:account=923361761651:filter.vpc-id=vpc-0677ad5739ab11544:region=ap-southeast-1:returnAsymmetricSubnets=true": {
+    "vpcId": "vpc-0677ad5739ab11544",
+    "vpcCidrBlock": "10.7.0.0/16",
+    "availabilityZones": [],
+    "subnetGroups": [
+      {
+        "name": "Private",
+        "type": "Isolated",
+        "subnets": [
+          {
+            "subnetId": "subnet-070d065861fa39639",
+            "cidr": "10.7.4.0/23",
+            "availabilityZone": "ap-southeast-1a",
+            "routeTableId": "rtb-08d4f8a65d54dfdf1"
+          },
+          {
+            "subnetId": "subnet-028e7f6322391c2f6",
+            "cidr": "10.7.6.0/23",
+            "availabilityZone": "ap-southeast-1b",
+            "routeTableId": "rtb-08a890de0d2f6c6b4"
+          }
+        ]
+      },
+      {
+        "name": "Public",
+        "type": "Public",
+        "subnets": [
+          {
+            "subnetId": "subnet-0c2f7237deefd1a2c",
+            "cidr": "10.7.0.0/23",
+            "availabilityZone": "ap-southeast-1a",
+            "routeTableId": "rtb-09af9f2c936503619"
+          },
+          {
+            "subnetId": "subnet-035422c24d6622e97",
+            "cidr": "10.7.2.0/23",
+            "availabilityZone": "ap-southeast-1b",
+            "routeTableId": "rtb-06ea9f772fb81074d"
+          }
+        ]
+      }
+    ]
+  },
+  "ssm:account=240542634635:parameterName=/idn/popbela/vpcId:region=ap-southeast-1": "vpc-030a41865b23d774c",
+  "vpc-provider:account=240542634635:filter.vpc-id=vpc-030a41865b23d774c:region=ap-southeast-1:returnAsymmetricSubnets=true": {
+    "vpcId": "vpc-030a41865b23d774c",
+    "vpcCidrBlock": "10.14.0.0/16",
+    "availabilityZones": [],
+    "subnetGroups": [
+      {
+        "name": "Private",
+        "type": "Isolated",
+        "subnets": [
+          {
+            "subnetId": "subnet-095d5e30ffb622b5d",
+            "cidr": "10.14.4.0/23",
+            "availabilityZone": "ap-southeast-1a",
+            "routeTableId": "rtb-0b5b50dfa20c79b00"
+          },
+          {
+            "subnetId": "subnet-04f3b6e2f815d96d3",
+            "cidr": "10.14.6.0/23",
+            "availabilityZone": "ap-southeast-1b",
+            "routeTableId": "rtb-0727f49d7209ec0c6"
+          }
+        ]
+      },
+      {
+        "name": "Public",
+        "type": "Public",
+        "subnets": [
+          {
+            "subnetId": "subnet-0985b1a1340b134d6",
+            "cidr": "10.14.0.0/23",
+            "availabilityZone": "ap-southeast-1a",
+            "routeTableId": "rtb-05110ca8de2fa3d57"
+          },
+          {
+            "subnetId": "subnet-01d5ccfd6f999d39e",
+            "cidr": "10.14.2.0/23",
+            "availabilityZone": "ap-southeast-1b",
+            "routeTableId": "rtb-0085caee72a35d34d"
+          }
+        ]
+      }
+    ]
+  },
+  "ssm:account=302517784613:parameterName=/idn/popbela/vpcId:region=ap-southeast-1": "vpc-0ab4d041388c6f02a",
+  "vpc-provider:account=302517784613:filter.vpc-id=vpc-0ab4d041388c6f02a:region=ap-southeast-1:returnAsymmetricSubnets=true": {
+    "vpcId": "vpc-0ab4d041388c6f02a",
+    "vpcCidrBlock": "10.13.0.0/16",
+    "availabilityZones": [],
+    "subnetGroups": [
+      {
+        "name": "Public",
+        "type": "Public",
+        "subnets": [
+          {
+            "subnetId": "subnet-0da06619dd3e78467",
+            "cidr": "10.13.0.0/23",
+            "availabilityZone": "ap-southeast-1a",
+            "routeTableId": "rtb-00a148cb66b1191f0"
+          },
+          {
+            "subnetId": "subnet-0ae27959ec22f4f37",
+            "cidr": "10.13.2.0/23",
+            "availabilityZone": "ap-southeast-1b",
+            "routeTableId": "rtb-0062bf412fa50621b"
+          }
+        ]
+      },
+      {
+        "name": "Private",
+        "type": "Isolated",
+        "subnets": [
+          {
+            "subnetId": "subnet-0a08ed6d6975ba815",
+            "cidr": "10.13.4.0/23",
+            "availabilityZone": "ap-southeast-1a",
+            "routeTableId": "rtb-0c3ca6ecdd334e34c"
+          },
+          {
+            "subnetId": "subnet-07bbc4f209f9fddbd",
+            "cidr": "10.13.6.0/23",
+            "availabilityZone": "ap-southeast-1b",
+            "routeTableId": "rtb-0d84f724745d26943"
+          }
+        ]
+      }
+    ]
+  },
+  "ssm:account=487053431871:parameterName=/idn/popbela/vpcId:region=ap-southeast-1": "vpc-0b58e7e56602e4729",
+  "vpc-provider:account=487053431871:filter.vpc-id=vpc-0b58e7e56602e4729:region=ap-southeast-1:returnAsymmetricSubnets=true": {
+    "vpcId": "vpc-0b58e7e56602e4729",
+    "vpcCidrBlock": "10.0.0.0/16",
+    "ownerAccountId": "487053431871",
+    "availabilityZones": [],
+    "subnetGroups": [
+      {
+        "name": "Public",
+        "type": "Public",
+        "subnets": [
+          {
+            "subnetId": "subnet-008417d693ec74b89",
+            "cidr": "10.0.0.0/23",
+            "availabilityZone": "ap-southeast-1a",
+            "routeTableId": "rtb-0ba473dbc827781a2"
+          },
+          {
+            "subnetId": "subnet-034db8e1441e421b3",
+            "cidr": "10.0.2.0/23",
+            "availabilityZone": "ap-southeast-1b",
+            "routeTableId": "rtb-0c3b58569855ba515"
+          }
+        ]
+      },
+      {
+        "name": "Private",
+        "type": "Private",
+        "subnets": [
+          {
+            "subnetId": "subnet-0870c351720afc7ac",
+            "cidr": "10.0.4.0/23",
+            "availabilityZone": "ap-southeast-1a",
+            "routeTableId": "rtb-062075c108fa830ae"
+          },
+          {
+            "subnetId": "subnet-0812bf8d376e468b8",
+            "cidr": "10.0.6.0/23",
+            "availabilityZone": "ap-southeast-1b",
+            "routeTableId": "rtb-08323beb38b1520ea"
+          }
+        ]
+      }
+    ]
+  },
+  "load-balancer:account=487053431871:loadBalancerArn=arn$:aws:elasticloadbalancing:ap-southeast-1:487053431871:loadbalancer/app/popbe-WwwWw-1VCCM6QK139O2/0fe1d1c7036237d5:loadBalancerType=application:region=ap-southeast-1": {
+    "loadBalancerArn": "arn:aws:elasticloadbalancing:ap-southeast-1:487053431871:loadbalancer/app/popbe-WwwWw-1VCCM6QK139O2/0fe1d1c7036237d5",
+    "loadBalancerCanonicalHostedZoneId": "Z1LMS91P8CMLE5",
+    "loadBalancerDnsName": "popbe-WwwWw-1VCCM6QK139O2-575002136.ap-southeast-1.elb.amazonaws.com",
+    "vpcId": "vpc-0b58e7e56602e4729",
+    "securityGroupIds": [
+      "sg-0298b7cbc2d14b37c"
+    ],
+    "ipAddressType": "ipv4"
+  },
+  "security-group:account=487053431871:region=ap-southeast-1:securityGroupId=sg-0298b7cbc2d14b37c": {
+    "securityGroupId": "sg-0298b7cbc2d14b37c",
+    "allowAllOutbound": false
+  }
+}

@@ -1,0 +1,92 @@
+.label-sub {
+  box-sizing: border-box;
+  width: 55px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid var(--pink-subtitle);
+  font-family: 'Futura_BookBoldRegular', sans-serif;
+}
+
+.horoscope-content {
+  font-size: 24px;
+
+  strong,
+  b,
+  p span {
+    color: var(--color-primary);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'LimerickMedium', sans-serif;
+  }
+}
+.read-more-btn {
+  display: block;
+  position: relative;
+  width: 100%;
+  button {
+    -o-border-radius: 4px;
+    font-weight: 700;
+    background-color: #f2b4cf;
+    color: #d51c6a;
+    font-size: 18px;
+    padding: 8px 16px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+    gap: 8px;
+    width: 100%;
+  }
+}
+.image-listicle {
+    width: 100%;
+    position: relative;
+    > span {
+      > span {
+        display: none !important;
+      }
+    }
+    img {
+      position: relative !important;
+      width: 100% !important;
+      height: auto !important;
+      min-height: min-content !important;
+    }
+}
+.half-listicle {
+    display: block;
+    height: 360px;
+    overflow: hidden;
+    position: relative;
+    &::after {
+        content: '';
+        display: block;
+        position: absolute;
+        bottom: 0;
+        height: 360px;
+        width: 100%;
+        background: linear-gradient(180deg,#fff0,#fff 80%);
+      }
+}
+.readmore-container {
+  p {
+    margin-bottom: 10px;;
+  }
+}
+@media screen and (min-width: 768px) {
+  .read-more-btn button {
+    width: min-content;
+    min-width: 350px;
+  }
+}

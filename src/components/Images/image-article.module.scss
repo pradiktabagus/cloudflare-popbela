@@ -1,0 +1,13 @@
+.image-article {
+  box-sizing: border-box;
+  position: relative;
+  > span {
+    position: relative !important;
+    width: 100%;
+  }
+  img {
+    position: relative !important;
+    height: auto !important;
+    width: 100%;
+  }
+}
