@@ -11,6 +11,7 @@ const partyTown = require('@builder.io/partytown/utils');
 const path = require('path');
 
 const moduleExports = withBundleAnalyzer({
+  distDir: 'build',
   eslint: {
     dirs: ['.'],
   },
